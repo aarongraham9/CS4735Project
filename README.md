@@ -1,4 +1,4 @@
-project-absent-lambda
+project-absent-lambda (AKA Dinosaurs vs. Asteroids)
 =====================
 
 A project for my computer graphics course
@@ -24,3 +24,8 @@ asteroids do more damage. The ship is a very sturdy vessel though, it could even
 the Moon should it come to that for some reason, though colliding with the Earth would destroy it.
 When the Game Over screen comes up, press the “Esc” key to exit. The “Esc” key will exit the
 program at any time.
+
+Authors:
+  David Ackerson,
+  Aaron Graham,
+  Brian Hanson
